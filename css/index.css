@@ -1,0 +1,12 @@
+html {
+  background: url("./images/pexels-jaime-reimer-2662116.jpeg") no-repeat center
+    center fixed;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+body {
+  font-family: Catamaran;
+  background: rgba(37, 33, 33, 0.143);
+  min-height: 100vh;
+  min-width: 100vw;
+}
